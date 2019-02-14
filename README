@@ -1,1 +1,4 @@
 9p library and example for arduino mega 1280
+
+mounting:
+srv -e 'eia9p /path/to/serialport' arduino /n/arduino
